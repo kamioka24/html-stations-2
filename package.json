@@ -6,7 +6,7 @@
   "devDependencies": {
     "@techtrain/cli-railway": "^0.1.11",
     "cypress": "^8.4.0",
-    "htmlhint": "^0.15.2",
+    "htmlhint": "^1.1.4",
     "lite-server": "^2.6.1",
     "prettier": "^2.4.1",
     "simple-git-hooks": "^2.6.1",
