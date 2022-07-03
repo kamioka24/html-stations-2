@@ -1,5 +1,6 @@
 #animation {
   animation: fadeIn 5s;
+  animation-fill-mode: forwards;
 }
 
 @keyframes fadeIn {
